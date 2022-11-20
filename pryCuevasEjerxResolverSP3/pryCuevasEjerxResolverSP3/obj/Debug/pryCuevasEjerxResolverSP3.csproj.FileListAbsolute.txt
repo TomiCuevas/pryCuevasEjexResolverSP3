@@ -1,0 +1,11 @@
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\bin\Debug\pryCuevasEjerxResolverSP3.exe.config
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\bin\Debug\pryCuevasEjerxResolverSP3.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\bin\Debug\pryCuevasEjerxResolverSP3.pdb
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\obj\Debug\pryCuevasEjerxResolverSP3.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\obj\Debug\pryCuevasEjerxResolverSP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\obj\Debug\pryCuevasEjerxResolverSP3.frmRegistroDeRepuestos.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\obj\Debug\pryCuevasEjerxResolverSP3.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\obj\Debug\pryCuevasEjerxResolverSP3.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\obj\Debug\pryCuevasEjerxResolverSP3.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\obj\Debug\pryCuevasEjerxResolverSP3.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS POR RESOLVER\pryCuevasEjerxResolverSP3\pryCuevasEjerxResolverSP3\obj\Debug\pryCuevasEjerxResolverSP3.pdb
